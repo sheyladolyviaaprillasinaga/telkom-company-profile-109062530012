@@ -19,4 +19,14 @@ require 'includes/header.php';
     </div>
 </section>
 
+<section class="section section-soft">
+    <div class="container article-body">
+        <h2>Fokus Pembelajaran</h2>
+        <ul>
+            <li>Pengembangan aplikasi web dinamis berbasis PHP Native dan MySQL.</li>
+            <li>Manajemen kode sumber menggunakan Git lokal dan workflow GitHub.</li>
+            <li>Perancangan basis data relasional serta pengolahan query SQL.</li>
+        </ul>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
